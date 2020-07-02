@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default suite",
+    "children" : [ {
+      "name" : "Default test",
+      "children" : [ {
+        "name" : "tests.RegistrationTest",
+        "children" : [ {
+          "name" : "userregisterationsuccessfully",
+          "uid" : "393b66bc4b193e7e",
+          "parentUid" : "855db9fd627a8fa27aed80f40af92825",
+          "status" : "passed",
+          "time" : {
+            "start" : 1593228275563,
+            "stop" : 1593228277250,
+            "duration" : 1687
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "855db9fd627a8fa27aed80f40af92825"
+      } ],
+      "uid" : "848117670d75f6868e681771989ad50e"
+    } ],
+    "uid" : "2c8837b97293ea01a164a5cd7048ad56"
+  } ]
+}

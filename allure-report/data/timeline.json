@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-U8G89I5",
+    "children" : [ {
+      "name" : "8832@DESKTOP-U8G89I5.main(1)",
+      "children" : [ {
+        "name" : "userregisterationsuccessfully",
+        "uid" : "393b66bc4b193e7e",
+        "parentUid" : "0734c230ce090f4d0dc56ab721bf235c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593228275563,
+          "stop" : 1593228277250,
+          "duration" : 1687
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0734c230ce090f4d0dc56ab721bf235c"
+    } ],
+    "uid" : "822f52cca75b1abd90bbeb2414506636"
+  } ]
+}

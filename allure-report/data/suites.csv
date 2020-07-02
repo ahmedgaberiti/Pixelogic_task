@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jun 27 05:24:35 GMT+02:00 2020","Sat Jun 27 05:24:37 GMT+02:00 2020","1687","Default suite","Default test","tests.RegistrationTest","tests.RegistrationTest","userregisterationsuccessfully","userregisterationsuccessfully",""

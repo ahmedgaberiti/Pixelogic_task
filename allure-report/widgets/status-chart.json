@@ -1,0 +1,11 @@
+[ {
+  "uid" : "393b66bc4b193e7e",
+  "name" : "userregisterationsuccessfully",
+  "time" : {
+    "start" : 1593228275563,
+    "stop" : 1593228277250,
+    "duration" : 1687
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,94 @@
+{
+  "uid" : "393b66bc4b193e7e",
+  "name" : "userregisterationsuccessfully",
+  "fullName" : "tests.RegistrationTest.userregisterationsuccessfully",
+  "historyId" : "deb9c4cb6baf89e773503e8e79411a7e",
+  "time" : {
+    "start" : 1593228275563,
+    "stop" : 1593228277250,
+    "duration" : 1687
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startdriver",
+    "time" : {
+      "start" : 1593228255165,
+      "stop" : 1593228275043,
+      "duration" : 19878
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "screenshotonfailure",
+    "time" : {
+      "start" : 1593228277549,
+      "stop" : 1593228277549,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.RegistrationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.RegistrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "userregisterationsuccessfully"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.RegistrationTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-U8G89I5"
+  }, {
+    "name" : "thread",
+    "value" : "8832@DESKTOP-U8G89I5.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "393b66bc4b193e7e.json",
+  "parameterValues" : [ ]
+}
